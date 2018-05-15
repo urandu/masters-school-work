@@ -7,3 +7,11 @@
 #### data analysis
 #### expected contribution
 #### references and plagiarism
+
+### books
+- Researching IS and Computing by Briony J Oates, SAGE
+- Research Methodology: Methods and Techniques by C.R Kothari, New age International LTD
+- Research Methods for Business, A skill building Approach by Uma Sekaran, Wiley
+
+### Citation
+- Havard
